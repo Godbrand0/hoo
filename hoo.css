@@ -347,6 +347,7 @@ footer{
 
 .footer-image{
     display: flex;
+    height: 50px;
 }
 .icon{
     width: 40px;
